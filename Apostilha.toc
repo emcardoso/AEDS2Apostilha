@@ -1,0 +1,12 @@
+\select@language {brazil}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{1}
+\contentsline {section}{\numberline {1.1}Opera\IeC {\c c}\IeC {\~o}es fundamentais de processamento de dados para aquivos}{2}
+\contentsline {subsection}{\numberline {1.1.1}Arquivos l\IeC {\'o}gicos e Arquivos f\IeC {\'\i }sicos.}{2}
+\contentsline {section}{\numberline {1.2}Tecnologias de armazenamento}{3}
+\contentsline {subsection}{\numberline {1.2.1}Fita magn\IeC {\'e}tica}{4}
+\contentsline {subsection}{\numberline {1.2.2}Disco R\IeC {\'\i }gido (HD)}{4}
+\contentsline {subsection}{\numberline {1.2.3}Disco \IeC {\'O}tico}{4}
+\contentsline {subsection}{\numberline {1.2.4}Mem\IeC {\'o}rias Flash}{5}
+\contentsline {chapter}{\numberline {2}Fundamentos de Estruturas de dados para Arquivos}{7}
+\contentsline {chapter}{\numberline {3}Campos e Registros}{9}
+\contentsline {chapter}{\numberline {4}Ordena\IeC {\c c}\IeC {\~a}o de mem\IeC {\'o}ria secund\IeC {\'a}ria}{11}
